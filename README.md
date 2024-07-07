@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="32px"> Hi, I'm Alok 
 
-I am a Software Engineer currently working as a SWE at [ByteLearn](https://www.bytelearn.com/). 
-Actively looking for new opportunities to work as a software engineer.
+With experience as a Software Engineer at [ByteLearn](https://www.bytelearn.com/), I am dedicated to creating scalable and efficient solutions.
+<br/>Seeking new opportunities to apply my expertise and grow as a software engineer.
 
 ### 📝 [My Resume](https://drive.google.com/file/d/1j789PaQDpaMqpmaQ8p4SpUmb6d_DqWT7/view)
 
