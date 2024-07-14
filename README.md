@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="32px"> Hi, I'm Alok 
 
-With experience as a Software Engineer at [ByteLearn](https://www.bytelearn.com/), I have hands-on experience with Vector Databases, Containerization, Microservices, and Scalable systems, and I'm currently open to full-time opportunities.
+With experience as a Software Engineer at [ByteLearn](https://www.bytelearn.com/), I have hands-on experience with Containerization, Microservices, and Scalable systems, and I'm currently open to full-time opportunities.
 ### 📝 [My Resume](https://drive.google.com/file/d/1PVDQKMMIVguiy7Cnkia-PlcDr2KcJOnX/view?usp=sharing)
 
 ## 🛠 Tech Stack
