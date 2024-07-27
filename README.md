@@ -10,7 +10,7 @@ With experience as a Software Engineer at [ByteLearn](https://www.bytelearn.com/
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![VectorDB](https://img.shields.io/badge/VectorDB-000?style=for-the-badge)
+![Vector-DB](https://img.shields.io/badge/VectorDB-000?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge)
 
 ## 🌟 Additional Qualities
