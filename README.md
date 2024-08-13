@@ -12,7 +12,7 @@ With experience as a Software Engineer at [ByteLearn](https://www.bytelearn.com/
 ![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge)
 
 ## 🌟 Additional Qualities
-I enjoy data structure and algorithmic problem solving. I have a rating of [Expert at Codeforces](https://codeforces.com/profile/imalok10) and have solved more than 1000 problems. I actively participate in competitive programming competitions.
+I enjoy data structure and algorithmic problem solving. I have a rating of [Expert at Codeforces](https://codeforces.com/profile/imalok10) and have solved more than 1000 problems. 
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-yadav-00173718a/)
