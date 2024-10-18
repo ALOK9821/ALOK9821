@@ -11,7 +11,7 @@ As a Software Engineer at [ByteLearn](https://www.bytelearn.com/), I have hands-
 ![Vector DB](https://img.shields.io/badge/VectorDB-000?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge)
 
-## 🌟 Additional Qualities
+## 🌟 Additional Skills
 I enjoy data structure and algorithmic problem solving. I have a rating of [Expert at Codeforces](https://codeforces.com/profile/imalok10) and have solved more than 1000 problems. 
 
 ## 📫 Get in Touch
