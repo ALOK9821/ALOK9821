@@ -1,6 +1,6 @@
 # Hi, I'm Alok 
 
-As a Software Engineer at, I have hands-on experience with Microservices, Scalable systems, and I'm currently open to full-time opportunities.
+As a Software Engineer, I have hands-on experience with Microservices, Scalable systems, and I'm currently open to full-time opportunities.
 ### 📝 [My Resume](https://drive.google.com/file/d/1b43qb9AltkVA2tprtBV0yP1FhCM2D5pd/view?usp=sharing)
 
 ## 📫 Get in Touch
