@@ -1,7 +1,7 @@
 # Hi, I'm Alok 
 
 As a Software Engineer, I have hands-on experience with Microservices, Scalable systems, and I'm currently open to full-time opportunities.
-### 📝 [My Resume](https://drive.google.com/file/d/1b43qb9AltkVA2tprtBV0yP1FhCM2D5pd/view?usp=sharing)
+### 📝 [My Resume](https://drive.google.com/file/d/1j789PaQDpaMqpmaQ8p4SpUmb6d_DqWT7/view?usp=sharing)
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-yadav-00173718a/)
